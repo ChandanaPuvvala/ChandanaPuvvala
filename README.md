@@ -42,7 +42,7 @@ I am a **Mobile App Developer** with experience in developing cross-platform app
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandanaPuvvala&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide_title=true&custom_title=GitHub%20Stats%202025&from=2025-01-01&to=2025-12-31" alt="ChandanaPuvvala Stats 2025" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandanaPuvvala&show_icons=true&locale=en&include_all_commits=true&count_private=true&count_public=true&hide_title=true&custom_title=GitHub%20Stats%202025&from=2025-01-01&to=2025-12-31" alt="ChandanaPuvvala Stats 2025" />
 </p>
 
 ---
