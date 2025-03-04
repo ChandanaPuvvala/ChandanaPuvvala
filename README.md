@@ -4,7 +4,7 @@
 
 ### 🚀 Mobile App Developer
 
-I am a **Mobile App Developer** with experience in developing cross-platform applications using **Flutter** and backend systems with **C#, Python, and Java**. I also worked on **AI/ML models** and **Data Analytics** projects using **Power BI** and **MySQL**.
+I'm a Flutter Developer & UI/UX Designer passionate about creating engaging, user-friendly, and high-performance mobile applications. With expertise in Flutter, Dart, and Firebase, I specialize in building cross-platform apps that deliver smooth UI/UX and efficient functionality.
 
 ---
 
