@@ -50,12 +50,16 @@ I'm a Flutter Developer & UI/UX Designer passionate about creating engaging, use
 ## 🎯 Projects
 - 📱 Mobile Apps in Flutter
 - 🤖 AI/ML Projects
-- 🔍 Data Analytics Dashboards
 
 ---
 ### Checkout My Projects 
 - [Car Rental App](https://github.com/ChandanaPuvvala/Car_rental_app1)
 - [BPPS App](https://github.com/vivek-1206/bppsapp)
+
+---
+### 🎓 Qualification
+- Graduation: BSC-(Computers)
+- BRR & GKR Chambers Degree & pg College, Aadikavi Nannaya University.
 
 ---
 ### Thank You for Visiting My Profile! 😊
