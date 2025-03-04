@@ -45,7 +45,7 @@ I am a **Mobile App Developer** with experience in developing cross-platform app
 - 📱 Mobile Apps in Flutter
 - 🤖 AI/ML Projects
 - 🔍 Data Analytics Dashboards
-
+---
 ### Checkout My Projects 
 (https://github.com/ChandanaPuvvala/Car_rental_app1)
 (https://github.com/vivek-1206/bppsapp)
