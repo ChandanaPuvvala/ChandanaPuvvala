@@ -10,7 +10,7 @@ I'm a Flutter Developer & UI/UX Designer passionate about creating engaging, use
 ##💡 What I Do
 - 🚀 Mobile App Development – Building scalable, high-performance apps with Flutter
 - 🎨 UI/UX Design – Crafting intuitive, pixel-perfect designs for seamless user experiences
--⚡ State Management – Ensuring smooth app performance with Provider
+- ⚡ State Management – Ensuring smooth app performance with Provider
 - 🔗 Backend Integration – Connecting apps seamlessly with Firebase, REST APIs & third-party services
 - 🔒 Payment & Authentication – Implementing secure payment gateways & OTP authentication
 ---
