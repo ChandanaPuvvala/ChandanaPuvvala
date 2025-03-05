@@ -7,7 +7,13 @@
 I'm a Flutter Developer & UI/UX Designer passionate about creating engaging, user-friendly, and high-performance mobile applications. With expertise in Flutter, Dart, and Firebase, I specialize in building cross-platform apps that deliver smooth UI/UX and efficient functionality.
 
 ---
-
+##💡 What I Do
+- 🚀 Mobile App Development – Building scalable, high-performance apps with Flutter
+- 🎨 UI/UX Design – Crafting intuitive, pixel-perfect designs for seamless user experiences
+-⚡ State Management – Ensuring smooth app performance with Provider
+- 🔗 Backend Integration – Connecting apps seamlessly with Firebase, REST APIs & third-party services
+- 🔒 Payment & Authentication – Implementing secure payment gateways & OTP authentication
+---
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -48,7 +54,9 @@ I'm a Flutter Developer & UI/UX Designer passionate about creating engaging, use
 
 ---
 ## 🎯 Projects
-- 📱 Mobile Apps in Flutter
+- 💳⚡ Bharath Bill Payment System – A seamless and intuitive payment UI inspired by PhonePe
+- 🛍️🔥CreditCard – A feature-rich Flutter banking app with Firebase backend
+- 🚗💨 Car Rental App – A real-time car booking platform with a sleek and smooth UI
 - 🤖 AI/ML Projects
 
 ---
